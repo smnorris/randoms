@@ -1,0 +1,4 @@
+geopandas
+bcdata
+ipython
+matplotlib
